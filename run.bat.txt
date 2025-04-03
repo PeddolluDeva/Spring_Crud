@@ -1,0 +1,2 @@
+C:\Users\LENOVO PC\SpringMVC\Spring_Crud>
+mvn test
